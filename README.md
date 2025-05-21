@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-Ao-Dragon
 - 👀 I’m interested in linux, database, game backstage, minecraft, Automated games...
 - 🌱 I’m currently learning golang, linux, databases...
-- 📫 How to reach me : [mail](x123456789@outlook.com) [telegram](https://t.me/MrAoDragon)
+- 📫 How to reach me : [mail](contact-me@aoloo.ng)
 - 🔐 My GPG Key fingerprint : `06C25E27069A813C87295B6750D65A0E269EB659`
 - ☕ support Me: [![爱发电](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png)](https://afdian.com/a/MrAoDragon)
 <!---
